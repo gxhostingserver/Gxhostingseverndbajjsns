@@ -11,7 +11,7 @@ Set these in the Render service's **Environment** tab:
 
 | Variable | Value |
 | --- | --- |
-| `TELEGRAM_BOT_TOKEN` | Token from BotFather |
+| `BOT_TOKEN` | Token from BotFather |
 | `OWNER_ID` | Owner's numeric Telegram user ID (or set `ADMIN_ID` only) |
 | `ADMIN_ID` | Admin's numeric Telegram user ID; can equal `OWNER_ID` |
 | `BINANCE_PAY_ID` | Binance Pay ID shown to users |
